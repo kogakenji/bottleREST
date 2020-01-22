@@ -27,6 +27,6 @@ Hit Ctrl-C to quit.
 ```
 ### Executing test client (open in a separate terminal, remember to activate environment)
 ```sh
-(env) $ python client_iselect.py
+(env) $ python client.py
 ```
 
